@@ -1,6 +1,6 @@
 # Warden::Cognito
 
-# ⚠️ This has been forked because the main repo has been unmaintened for a long time.
+# ⚠️ This has been forked because the main repo has been unmaintained for a long time.
 
 ## Installation
 
